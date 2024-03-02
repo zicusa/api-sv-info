@@ -1,5 +1,5 @@
 {
-    "name": "api-sv-info",
+    "name": "@zicusa/api-sv-info",
     "version": "1.0.2",
     "description": "api get student info",
     "dependencies": {
