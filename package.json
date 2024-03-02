@@ -1,0 +1,22 @@
+{
+    "name": "api-sv-info",
+    "version": "1.0.0",
+    "description": "api get student info",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/zicusa/api-sv-info.git"
+    },
+    "keywords": [
+      "api"
+    ],
+    "author": "zicusa",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/zicusa/api-sv-info/issues"
+    },
+    "homepage": "https://github.com/zicusa/api-sv-info#readme"
+  }
