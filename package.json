@@ -2,6 +2,10 @@
     "name": "api-sv-info",
     "version": "1.0.0",
     "description": "api get student info",
+    "dependencies": {
+      "my_dep": "^1.0.0",
+      "another_dep": "~2.2.0"
+    },
     "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
