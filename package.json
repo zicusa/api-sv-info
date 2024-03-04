@@ -1,6 +1,6 @@
 {
     "name": "@zicusa/api-sv-info",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "api get student info",
     "dependencies": {
       "axios": "^0.18.0",
@@ -14,10 +14,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zicusa/api-sv-info.git"
-    },
+    "repository": "https://github.com/zicusa/api-sv-info.git",
     "keywords": [
       "api"
     ],
