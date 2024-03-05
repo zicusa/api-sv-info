@@ -1,6 +1,6 @@
 {
     "name": "@zicusa/api-sv-info",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "description": "api get student info",
     "dependencies": {
       "axios": "^0.18.0",
@@ -16,12 +16,9 @@
     },
     "repository": "https://github.com/zicusa/api-sv-info.git",
     "keywords": [
-      "api"
+      "api","tea"
     ],
     "author": "zicusa",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/zicusa/api-sv-info/issues"
-    },
+    "license": "ISC",    
     "homepage": "https://github.com/zicusa/api-sv-info#readme"
   }
