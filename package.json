@@ -1,6 +1,6 @@
 {
     "name": "@zicusa/api-sv-info",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "description": "api get student info",
     "dependencies": {
       "axios": "^0.18.0",
